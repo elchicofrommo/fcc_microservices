@@ -1,6 +1,7 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "microservices-cert-project",
 	"author": "Mariano Hernandez",
+	"description": "First app for FCC API and Microservices Certification",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
